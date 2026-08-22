@@ -9,10 +9,10 @@ Un launcher simple pour lancer **Warframe 2013** avec une interface graphique et
 
 La langue choisie est enregistrée automatiquement pour les prochains lancements.
 ## ❗ Requis
-Warframe 2013 (https://about.openwf.io/versions#1958670258248515033)
-Serveur SpaceNinjaServer (https://about.openwf.io/web-server-setup)
-NodeJS (https://nodejs.org/en/download)
-Git (https://git-scm.com/install/windows)
+1. Warframe 2013 (https://about.openwf.io/versions#1958670258248515033)
+2. Serveur SpaceNinjaServer (https://about.openwf.io/web-server-setup)
+3. NodeJS (https://nodejs.org/en/download)
+4. Git (https://git-scm.com/install/windows)
 
 ## 🚀 Installation
 
