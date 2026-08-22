@@ -45,3 +45,7 @@ Ce projet est distribué sous licence **MIT**.
 
 Ce projet est un launcher **non officiel** et n'est pas affilié à **Digital Extremes**.
 
+## 📞 Contacts
+
+1. **Email :** [blueballplays@proton.me](mailto:blueballplays@proton.me) *(répond rarement)*
+2. **Discord :** blueplays_0fficial *(répond fréquemment)*
