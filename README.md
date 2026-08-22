@@ -44,6 +44,7 @@ Ce projet est distribué sous licence **MIT**.
 ## ⚠️ Note
 
 Ce projet est un launcher **non officiel** et n'est pas affilié à **Digital Extremes**.
+Le dossier "Images steam.zip" est optionnel
 
 ## 📞 Contacts
 
