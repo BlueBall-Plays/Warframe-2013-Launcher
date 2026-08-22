@@ -1,37 +1,41 @@
 # Warframe 2013 Launcher
 
-Un launcher simple pour lancer **Warframe 2013** avec une interface graphique et un choix de langue.
+Un launcher simple permettant de lancer **Warframe 2013** avec une interface graphique et un choix de langue.
 
 ## 🌐 Langues
 
 * 🇫🇷 Français
 * 🇬🇧 English
 
-La langue choisie est enregistrée automatiquement pour les prochains lancements.
+La langue choisie est automatiquement enregistrée pour les prochains lancements.
+
 ## ❗ Requis
-1. Warframe 2013 (https://about.openwf.io/versions#1958670258248515033)
-2. Serveur SpaceNinjaServer (https://about.openwf.io/web-server-setup)
-3. NodeJS (https://nodejs.org/en/download)
-4. Git (https://git-scm.com/install/windows)
+
+Avant d'utiliser le launcher, vous devez installer :
+
+1. **Warframe 2013** — [OpenWF](https://about.openwf.io/versions#1958670258248515033)
+2. **SpaceNinjaServer** — [Guide d'installation](https://about.openwf.io/web-server-setup)
+3. **Node.js** — [Téléchargement](https://nodejs.org/en/download)
+4. **Git** — [Installation pour Windows](https://git-scm.com/install/windows)
 
 ## 🚀 Installation
 
-1. Aller au premier lien et télécharger la version de la console Steam.
-2. Installer le bootstrapper et suivez les etapes.
-3. Une fois le serveur installé c'est bon.
-4. Installer le "Warframe-2013-Launcher-Setup.exe".
-5. Exécuter le .exe que vous avez téléchargé.
-6. Installer le programme.
-7. Au premier lancement choisissez la langue de votre choix.
-8. Si il trouve plusieurs installations de Warframe valider la bonne si il ne trouve pas il vous demandera de chercher le dossier a ça place.
-9. configurer le chemin d'accès jusqu'à SpaceNinjaServer.
-10. Appuyer sur jouer.
-11. Si ça ne fonctionne pas regarder la fenêtre de commande Windows qui vient de s'ouvrir.
-12. Bon jeu sur l'ancien Warframe 
+1. Aller sur le premier lien et télécharger la version **Console Steam** de Warframe 2013.
+2. Installer le bootstrapper et suivre les étapes indiquées.
+3. Installer **Node.js** et **Git** s'ils ne sont pas déjà installés.
+4. Installer et configurer **SpaceNinjaServer** en suivant le guide indiqué ci-dessus.
+5. Une fois le serveur installé, télécharger **Warframe-2013-Launcher-Setup.exe**.
+6. Exécuter l'installateur et installer le programme.
+7. Au premier lancement, choisir la langue souhaitée.
+8. Si plusieurs installations de Warframe sont détectées, sélectionner la bonne. Si aucune installation n'est trouvée, le launcher vous demandera de sélectionner manuellement le dossier.
+9. Configurer le chemin d'accès vers **SpaceNinjaServer**.
+10. Appuyer sur **JOUER**.
+11. Si le lancement ne fonctionne pas, consulter la fenêtre de commande Windows qui vient de s'ouvrir afin d'identifier l'erreur.
+12. Bon jeu sur l'ancien Warframe ! 🎮
 
 ## ⚙️ Configuration
 
-Le launcher utilise `option.ini` pour sauvegarder la langue sélectionnée.
+Le launcher utilise `option.ini` pour sauvegarder automatiquement la langue sélectionnée.
 
 ## 📜 Licence
 
@@ -39,5 +43,5 @@ Ce projet est distribué sous licence **MIT**.
 
 ## ⚠️ Note
 
-Ce projet est un launcher non officiel et n'est pas affilié à Digital Extremes.
+Ce projet est un launcher **non officiel** et n'est pas affilié à **Digital Extremes**.
 
